@@ -1,55 +1,13 @@
-# Neel Majmudar
+# Hey, I'm Neel 👋
 
-**Growth & GTM Engineer · Investment Fellow @ Transpose Platform**
+I'm a Growth and GTM Engineer. I like the part of a company where engineering meets distribution. That means writing the code that finds the right people, reaches them at the right time, and shows exactly what turned into revenue. Most growth work is still manual and runs on guesses. I like turning it into systems.
 
-I build the systems behind growth: agentic automations, data pipelines, and analytics that turn content, events, and outbound into measurable pipeline. Previously Research Engineer at ImagineAI (YC F25) and Growth Engineer at Credilinq. UC San Diego.
+I'm currently an Investment Fellow at Transpose Platform. I build internal tools for our partners and run hackathons across the US and abroad, with YC and portfolio founders as judges.
 
-[LinkedIn](https://www.linkedin.com/in/neel-majmudar-n091/) · San Francisco, CA
+Before this I was a Research Engineer at ImagineAI (YC F25) in San Francisco. I got the job by building a clone of their product at a hackathon and demoing it to the founders. Then I took the biggest risk I've taken so far: I paid a quarter's tuition out of my own salary and flew out on a one-way ticket to work there full-time. While I was there, I built their LinkedIn analytics dashboard from zero, and a pipeline that traces which content actually turns into revenue. I also helped plan a Porsche 911 racing event that drew 1,200+ founders and VCs. It cost $742 and added $80K+ in ARR. That ratio is what gets me excited about this work.
 
----
+I started at Credilinq, an AI-native credit underwriting startup, as a Growth Engineer. They sent me to Google's Singapore office to train on agentic AI. I built n8n workflows that generate ad creative, and an agent that turned bank statements into fraud reports and saved the team 40+ hours a week. At UC San Diego, I was a founding member and VP of Growth of the Startup Incubator Club. I landed our partnership with Transpose and helped put on some of the biggest hackathons on campus.
 
-## Experience
+What I care about is simple. Distribution is an engineering problem, and the best growth teams build leverage instead of adding headcount. I'm always up to talk about agents, GTM automation, content attribution, or anything else that helps a company grow faster.
 
-### Transpose Platform · Investment Fellow
-*Present*
-- Build internal tools for the partners.
-- Plan and run hackathons across the US and internationally, with YC founders and portfolio-company founders as judges.
-
-### ImagineAI (YC F25) · Research Engineer
-*Spring 2026 · San Francisco*
-- **Content Returns pipeline:** validated and built a dashboard and data pipeline that attributes revenue to LinkedIn content. It identifies which content categories drive the most revenue and decision-maker engagement, and captures leads from the top of the funnel to the bottom.
-- **LinkedIn analytics dashboard:** built 0→1, solo, for one of ImagineAI's core products. It tracks post performance, category insights, posting cadence, and media.
-- **Porsche 911 Racing Event:** one of two people who planned the event end to end. It drew 1,200+ founders, VCs, and builders, 2,000+ signups, and 1.5M+ social impressions. It cost **$742** and added **$80K+ ARR**. Co-hosted with AWS, Rippling, Fondo, Vanta, and others.
-- Got the job by building a working clone of the product at a hackathon and demoing it to the founders.
-
-### Startup Incubator Club, UC San Diego · VP of Growth (Founding Member #3)
-*Founded Jan 2026*
-- Owned hiring and all growth and expansion. Split growth into verticals, each with its own owner.
-- Partnered with Transpose Platform, which opened access to its VC and YC network.
-- Hosted a hackathon with Transpose Platform: 250+ attendees, $5K in prizes, YC founders as judges, and recruiters on site. Co-hosted DataHacks, UCSD's largest hackathon (500+ participants), and brought in Orthogonal as a Gold sponsor.
-- Built contact databases covering every UCSD STEM professor, 650+ YC founders, VCs, and big-tech employees.
-- The growth team went on to roles at Tesla, GMI Cloud, and YC startups Hemut (X25), Corgi (S24), ImagineAI (F25), and Gallium. Members also received offers from Anthropic, OpenAI, NVIDIA, and Amazon.
-
-### Credilinq · Growth Engineer
-*Jul 2025 – Mar 2026 · Series A, AI-native credit underwriting*
-- Trained in agentic AI (Vertex AI, Google ADK) at Google's Singapore office.
-- **Excel agent for fraud reports:** pulls bank statements from Amazon S3, computes metrics across multiple Excel tables, and generates fraud reports. Saves **40+ hours per week** of manual processing.
-- Worked on multi-agent OCR systems that parse bank statements for fraud detection.
-- Built n8n automations that generate static and video ad creative for marketing campaigns.
-
----
-
-## Stack
-
-**Languages:** Python, TypeScript, JavaScript, SQL
-**AI / Agents:** Google ADK, Vertex AI, Claude, multi-agent systems, OCR pipelines
-**Data & Infra:** Supabase / Postgres, AWS S3, Next.js, React
-**Growth / GTM:** n8n, Apify, Playwright, scraping and enrichment pipelines, LinkedIn content analytics
-
----
-
-## Selected Projects
-
-- **[Google-ADK-Agent-Skill](https://github.com/neelmajmudar/Google-ADK-Agent-Skill):** an agent skill for Google's Agent Development Kit.
-- **[analytics-cli](https://github.com/neelmajmudar/analytics-cli):** a read-only CLI for the ImagineAI content analytics backend.
-- **[systemdesigner](https://github.com/neelmajmudar/systemdesigner)**
+[LinkedIn](https://www.linkedin.com/in/neel-majmudar-n091/)

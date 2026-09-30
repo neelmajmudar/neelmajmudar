@@ -2,7 +2,7 @@
 
 **Growth & GTM Engineer · Investment Fellow @ Transpose Platform**
 
-I build the systems behind growth: agentic automations, data pipelines, and analytics that turn content, events, and outbound into measurable pipeline. Previously Research Engineer at ImagineAI (YC F25) and engineering and marketing intern at Credilinq. UC San Diego.
+I build the systems behind growth: agentic automations, data pipelines, and analytics that turn content, events, and outbound into measurable pipeline. Previously Research Engineer at ImagineAI (YC F25) and Growth Engineer at Credilinq. UC San Diego.
 
 [LinkedIn](https://www.linkedin.com/in/neel-majmudar-n091/) · San Francisco, CA
 
@@ -30,8 +30,8 @@ I build the systems behind growth: agentic automations, data pipelines, and anal
 - Built contact databases covering every UCSD STEM professor, 650+ YC founders, VCs, and big-tech employees.
 - The growth team went on to roles at Tesla, GMI Cloud, and YC startups Hemut (X25), Corgi (S24), ImagineAI (F25), and Gallium. Members also received offers from Anthropic, OpenAI, NVIDIA, and Amazon.
 
-### Credilinq · Intern, Engineering & Marketing
-*Summer 2025 – Mar 2026 · Series A, AI-native credit underwriting*
+### Credilinq · Growth Engineer
+*Jul 2025 – Mar 2026 · Series A, AI-native credit underwriting*
 - Trained in agentic AI (Vertex AI, Google ADK) at Google's Singapore office.
 - **Excel agent for fraud reports:** pulls bank statements from Amazon S3, computes metrics across multiple Excel tables, and generates fraud reports. Saves **40+ hours per week** of manual processing.
 - Worked on multi-agent OCR systems that parse bank statements for fraud detection.
